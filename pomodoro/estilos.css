@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(217, 85, 80);
+}
+
+/*BOTONES*/
+.btn-salmon {
+    background-color:rgb(225, 119, 115) ;
+    color: #fff;
+}
+
+.btn-start {
+    border-bottom: 6px solid #ccc;
+    font-size: 3em;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+.bg-timer {
+
+    background-color:rgb(225, 119, 115) ;
+}
+
+
+
+.timer {
+    font-size: 8em;
+    font-weight: 800;
+}
+

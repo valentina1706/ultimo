@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+.imagen {
+
+    width: 24px;
+
+    display: block;
+
+    margin: 0 auto;
+}
+
